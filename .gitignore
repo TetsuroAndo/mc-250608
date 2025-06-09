@@ -1,0 +1,14 @@
+.DS_Store
+.vscode
+logs/
+xaero/
+XaeroWaypoints_BACKUP*/
+screenshots/
+saves/
+crash-reports/
+.qmenu_opened.marker
+patchouli_data.json
+servers.dat
+servers.dat_old
+usercache.json
+usernamecache.json
