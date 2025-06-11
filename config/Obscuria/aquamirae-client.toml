@@ -1,0 +1,11 @@
+
+[General]
+	renderThreeBoltHelmetOverlay = false
+	stylizedBossbar = false
+
+[IceMazeAmbient]
+	spawnParticles = false
+	playAmbientSounds = false
+	playBiomeMusic = false
+	playCorneliaMusic = false
+
