@@ -51,6 +51,9 @@
     "painting": true,
     "chiseled_bookshelf": true
   },
+  "l2hostility": {
+    "mob": true
+  },
   "champions": {
     "enable_affix_compact": true
   },
@@ -66,6 +69,9 @@
     "exact_block": true,
     "goggles.detailed": false,
     "placard": true
+  },
+  "autoleveling": {
+    "level": true
   },
   "twilightforest": {
     "quest_ram_wool": true

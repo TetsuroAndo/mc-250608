@@ -1,4 +1,5 @@
 {
+  "autoleveling:level": null,
   "balm:jade": null,
   "champions:enable_affix_compact": null,
   "jade:block_face": null,
@@ -18,6 +19,7 @@
   "jadeaddons.create:placard": null,
   "jadeaddons.create:table_cloth": null,
   "jadeaddons.lootr:inventory": null,
+  "l2hostility:mob": null,
   "minecraft:animal_owner": null,
   "minecraft:armor_stand": null,
   "minecraft:beehive": null,
