@@ -1,0 +1,39 @@
+{
+  "favorites": [],
+  "lookup_history": [
+    {
+      "type": "item",
+      "id": "minecraft:gunpowder",
+      "amount": 3
+    },
+    "item:tacz:ammo{AmmoId:\"lradd:545x39\"}",
+    "item:createtaczauto:tiny_gunpowder_pile",
+    "item:tacz:ammo{AmmoId:\"tacz:45acp\"}",
+    "item:tacz:ammo{AmmoId:\"tacz:58x42\"}",
+    "item:tacz:ammo{AmmoId:\"tacz:338\"}",
+    "item:tacz:ammo{AmmoId:\"tacz:357mag\"}",
+    "item:tacz:ammo{AmmoId:\"tacz:57x28\"}",
+    "item:tacz:ammo_box{Level:0}"
+  ],
+  "craft_history": [
+    "minecraft:bucket",
+    "minecraft:cobblestone_slab",
+    "minecraft:crafting_table",
+    "minecraft:oak_planks",
+    "minecraft:cobblestone_stairs",
+    "minecraft:cobbled_deepslate_stairs",
+    "minecraft:torch",
+    "minecraft:iron_axe",
+    "quark:building/crafting/chests/oak_chest",
+    "minecraft:iron_pickaxe",
+    "minecraft:stick",
+    "tacz:ammo_workbench"
+  ],
+  "recipe_defaults": {
+    "added": [],
+    "tags": {},
+    "resolutions": {},
+    "disabled": []
+  },
+  "hidden_stacks": []
+}
