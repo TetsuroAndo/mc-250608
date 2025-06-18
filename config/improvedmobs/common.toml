@@ -14,7 +14,7 @@
 	#So the difficulty increases by 0.01 every 2400 ticks (->0.1 per mc day since a mc day has 24000 ticks) till it reaches a difficulty of 10.
 	#Then it increases by 1 per mc day till it reaches 30 and then stops.
 	#If you want to use negative values use | instead of - as the delimiter.
-	"Difficulty Increase" = ["0.0-0.1", "250.0-0.0"]
+	"Difficulty Increase" = ["0.0-0.02", "250.0-0.0"]
 	#Wether difficulty should only increase with at least one online players or not
 	"Ignore Players" = false
 	#If true will increase difficulty by the amount of time skipped. Else will only increase difficulty once.
@@ -96,19 +96,19 @@
 	#The max value for vanilla difficulty scaling. As clamped regional difficulty returns a value between 0 and 1
 	#Thus difficulty will be regional difficulty * max
 	#Range: 0.0 ~ 1.7976931348623157E308
-	"Vanilla Max" = 250.0
+	"Vanilla Max" = 100.0
 	#Should the scaling health mods difficulty system be used instead of this ones. (Requires scaling health mod)
 	#Allowed Values: OFF, ON, ADD
-	"Use Scaling Health Mod" = "ON"
+	"Use Scaling Health Mod" = "OFF"
 	#If true and playerEx is installed will use the level from playerEx as difficulty
 	#Allowed Values: OFF, ON, ADD
-	"Use Player EX Mod" = "ON"
+	"Use Player EX Mod" = "OFF"
 	#Scaling for playerEX integration
 	#Range: 0.0 ~ 1.7976931348623157E308
 	"PlayerEX Scaling" = 1.0
 	#If true and LevelZ is installed will use the the total skill level from LevelZ as difficulty
 	#Allowed Values: OFF, ON, ADD
-	"Use LevelZ Mod" = "ON"
+	"Use LevelZ Mod" = "OFF"
 	#Scaling for LevelZ integration
 	#Range: 0.0 ~ 1.7976931348623157E308
 	"LevelZ Scaling" = 1.0
@@ -116,7 +116,7 @@
 	"Use pehkui Mod" = false
 	#The Max scale of mobs. Range [1.0,10], default 2.0
 	#Range: 1.0 ~ 10.0
-	"Max size Multiplier" = 2.0
+	"Max size Multiplier" = 1.0
 	#The Minimum scale of mobs. Range (0,1.0), default 0.5
 	#Range: 0.0 ~ 1.0
 	"Minimum size Multiplier" = 0.5
