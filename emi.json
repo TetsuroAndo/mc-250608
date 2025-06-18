@@ -1,13 +1,276 @@
 {
-  "favorites": [],
+  "favorites": [
+    {
+      "stack": {
+        "type": "item",
+        "id": "l2backpack:ender_pocket",
+        "amount": 4
+      },
+      "recipe": "l2backpack:ender_pocket"
+    },
+    {
+      "stack": {
+        "type": "item",
+        "id": "minecraft:lapis_lazuli",
+        "amount": 59
+      }
+    },
+    {
+      "stack": "item:minecraft:enchanted_book{StoredEnchantments:[{id:\"minecraft:lure\",lvl:1s}],hideEnchantments:1b}"
+    }
+  ],
   "lookup_history": [
     {
       "type": "item",
-      "id": "minecraft:gunpowder",
+      "id": "scalinghealth:power_crystal_shard",
+      "amount": 9
+    },
+    "item:scalinghealth:power_crystal",
+    "item:minecraft:tuff",
+    "item:create:zinc_nugget",
+    {
+      "type": "item",
+      "id": "create:zinc_ingot",
+      "amount": 64
+    },
+    {
+      "type": "item",
+      "id": "create:andesite_alloy",
+      "amount": 41
+    },
+    {
+      "type": "item",
+      "id": "create:raw_zinc",
+      "amount": 58
+    },
+    "item:scalinghealth:heart_dust",
+    {
+      "type": "item",
+      "id": "scalinghealth:medkit",
+      "amount": 2
+    },
+    "item:tacz:modern_kinetic_gun{GunCurrentAmmoCount:5,GunFireMode:\"SEMI\",GunId:\"elitex:kar98k\",HasBulletInBarrel:1b}",
+    "item:minecraft:grindstone",
+    {
+      "type": "item",
+      "id": "minecraft:cobblestone",
+      "amount": 63
+    },
+    "item:minecraft:copper_ore",
+    {
+      "type": "item",
+      "id": "minecraft:copper_ingot",
       "amount": 3
     },
-    "item:tacz:ammo{AmmoId:\"lradd:545x39\"}",
+    "item:minecraft:raw_copper",
+    "#item:create:stone_types/veridium",
+    "item:create:copper_nugget",
+    "#item:forge:nuggets/copper",
+    "item:cyclic:copper_nugget",
+    "item:minecraft:flint",
+    {
+      "type": "item",
+      "id": "cyclic:flint_block",
+      "amount": 64
+    },
+    {
+      "type": "item",
+      "id": "minecraft:raw_gold",
+      "amount": 64
+    },
+    "item:create:crushed_raw_copper",
+    {
+      "type": "item",
+      "id": "minecraft:gunpowder",
+      "amount": 64
+    },
+    "item:minecraft:sand",
+    "#item:minecraft:sand",
+    "item:minecraft:soul_sand",
+    {
+      "type": "item",
+      "id": "minecraft:quartz",
+      "amount": 16
+    },
+    "item:create:mechanical_crafter",
+    {
+      "type": "item",
+      "id": "create:polished_rose_quartz",
+      "amount": 2
+    },
+    {
+      "type": "item",
+      "id": "create:rose_quartz",
+      "amount": 3
+    },
+    "item:create:deployer",
+    "item:create:depot",
+    "item:create:electron_tube",
+    "item:create:sand_paper{Damage:0}",
+    "#item:create:sandpaper",
+    "item:tacz:modern_kinetic_gun{GunCurrentAmmoCount:32,GunFireMode:\"AUTO\",GunId:\"rebel:csg19b\",HasBulletInBarrel:0b}",
+    "item:l2backpack:backpack_white{Items:[{Count:0b,id:\"minecraft:air\",tag:{Damage:53}},{Count:1b,id:\"minecraft:shears\",tag:{Damage:0}},{Count:0b,id:\"minecraft:air\"},{Count:0b,id:\"minecraft:air\"},{Count:0b,id:\"minecraft:air\"},{Count:43b,id:\"minecraft:bread\"},{Count:1b,id:\"minecraft:air\"},{Count:21b,id:\"supplementaries:rope\"},{Count:1b,id:\"minecraft:air\"},{Count:1b,id:\"minecraft:air\"},{Count:1b,id:\"minecraft:air\"},{Count:19b,id:\"minecraft:stone\"},{Count:0b,id:\"minecraft:air\"},{Count:0b,id:\"minecraft:air\"},{Count:0b,id:\"minecraft:air\"},{Count:0b,id:\"minecraft:air\"},{Count:1b,id:\"minecraft:air\"},{Count:64b,id:\"minecraft:dirt\"}],container_id:[I;1628436058,-1538899550,-2133092899,1078034061],init:1b,rows:3}",
+    "item:minecraft:smithing_table",
+    "item:l2backpack:ender_pocket",
+    "item:l2backpack:backpack_orange{rows:3}",
+    "item:cyclic:shears_flint{Damage:0}",
+    "item:create:fluid_pipe",
+    "item:supplementaries:flint_block",
+    "item:create:basin",
+    "item:create:rope_pulley",
+    {
+      "type": "item",
+      "id": "minecraft:iron_nugget",
+      "amount": 64
+    },
+    "item:create:gearshift",
+    "item:create:belt_connector",
+    "item:supplementaries:netherite_trapdoor",
+    "item:supplementaries:gold_trapdoor",
+    "item:minecraft:iron_trapdoor",
+    "item:quark:ancient_trapdoor",
+    "item:minecraft:warped_trapdoor",
+    "item:create:water_wheel",
+    {
+      "type": "item",
+      "id": "quark:clear_shard",
+      "amount": 27
+    },
+    {
+      "type": "item",
+      "id": "create:andesite_casing",
+      "amount": 13
+    },
+    "item:create:chute",
+    "item:create:analog_lever",
+    "item:create:clutch",
+    {
+      "type": "item",
+      "id": "create:iron_sheet",
+      "amount": 3
+    },
+    "item:create:propeller",
+    {
+      "type": "item",
+      "id": "create:encased_fan",
+      "amount": 2
+    },
+    "item:minecraft:dried_kelp",
+    {
+      "type": "item",
+      "id": "create:large_cogwheel",
+      "amount": 3
+    },
+    "item:create:millstone",
+    "item:create:mechanical_drill",
+    "item:create:cogwheel",
+    "item:create:crushed_raw_zinc",
     "item:createtaczauto:tiny_gunpowder_pile",
+    "item:minecraft:copper_block",
+    "item:create:ochrum",
+    {
+      "type": "item",
+      "id": "minecraft:feather",
+      "amount": 2
+    },
+    {
+      "type": "item",
+      "id": "minecraft:string",
+      "amount": 3
+    },
+    "#item:minecraft:wool",
+    {
+      "type": "item",
+      "id": "minecraft:sugar_cane",
+      "amount": 64
+    },
+    "item:irons_rpg_tweaks:identification_scroll",
+    "item:create:crimsite",
+    "#item:create:stone_types/crimsite",
+    {
+      "type": "item",
+      "id": "create:asurine",
+      "amount": 64
+    },
+    "item:minecraft:enchanted_book{StoredEnchantments:[{id:\"minecraft:piercing\",lvl:2s},{id:\"hmag:water_aspect\",lvl:4s}],hideEnchantments:1b}",
+    "item:quark:polished_tuff",
+    "item:create:chain_conveyor",
+    "item:create:crushing_wheel",
+    "item:cyclic:workbench",
+    {
+      "type": "item",
+      "id": "minecraft:diorite",
+      "amount": 64
+    },
+    {
+      "type": "item",
+      "id": "minecraft:cobbled_deepslate",
+      "amount": 62
+    },
+    {
+      "type": "item",
+      "id": "minecraft:granite",
+      "amount": 64
+    },
+    "item:create:crushed_raw_gold",
+    "item:supplementaries:sack{BlockEntityTag:{Items:[{Count:1b,Slot:0b,id:\"minecraft:red_bed\"},{Count:1b,Slot:1b,id:\"minecraft:light_blue_bed\"},{Count:1b,Slot:2b,id:\"minecraft:light_blue_bed\"},{Count:1b,Slot:3b,id:\"minecraft:light_blue_bed\"},{Count:1b,Slot:4b,id:\"minecraft:light_blue_bed\"}],id:\"minecraft:shulker_box\"}}",
+    "item:minecraft:gravel",
+    {
+      "type": "item",
+      "id": "minecraft:basalt",
+      "amount": 34
+    },
+    {
+      "type": "item",
+      "id": "minecraft:dirt",
+      "amount": 55
+    },
+    "item:twilightforest:raven_feather",
+    "#item:forge:feathers",
+    {
+      "type": "item",
+      "id": "minecraft:charcoal",
+      "amount": 23
+    },
+    {
+      "type": "item",
+      "id": "divinerpg:ice_stone",
+      "amount": 2
+    },
+    "item:divinerpg:realmite_ingot",
+    "item:divinerpg:realmite_nugget",
+    {
+      "type": "item",
+      "id": "minecraft:raw_iron",
+      "amount": 64
+    },
+    "item:twilightforest:magic_map_focus",
+    "item:twilightforest:magic_map",
+    "item:create:brass_sheet",
+    "item:createaddition:electrum_sheet",
+    "item:create:blaze_burner",
+    {
+      "type": "item",
+      "id": "create:brass_ingot",
+      "amount": 2
+    },
+    "item:create:raw_zinc_block",
+    "item:create:brass_nugget",
+    "item:create:brass_funnel",
+    "item:create:brass_tunnel",
+    "item:create:crushed_raw_iron",
+    "#item:create:crushed_raw_materials",
+    "item:minecraft:raw_iron_block",
+    "item:quark:raw_iron_bricks",
+    "item:create:mechanical_press",
+    "item:supplementaries:hourglass",
+    "item:minecraft:compass{\"quark:compass_calculated\":1b,\"quark:compass_in_nether\":0b}",
+    "item:create:golden_sheet",
+    "item:create:wrench",
+    "item:create:shaft",
+    "item:create:large_water_wheel",
+    "item:minecraft:andesite",
+    "item:tacz:ammo{AmmoId:\"lradd:545x39\"}",
     "item:tacz:ammo{AmmoId:\"tacz:45acp\"}",
     "item:tacz:ammo{AmmoId:\"tacz:58x42\"}",
     "item:tacz:ammo{AmmoId:\"tacz:338\"}",
@@ -16,24 +279,104 @@
     "item:tacz:ammo_box{Level:0}"
   ],
   "craft_history": [
-    "minecraft:bucket",
-    "minecraft:cobblestone_slab",
-    "minecraft:crafting_table",
+    "minecraft:lapis_lazuli",
+    "minecraft:iron_ingot_from_nuggets",
+    "cyclic:flint_block",
+    "scalinghealth:power_crystal",
+    "minecraft:lapis_block",
+    "minecraft:redstone_block",
+    "minecraft:grindstone",
+    "minecraft:stone_slab",
+    "quark:building/crafting/oak_bookshelf",
     "minecraft:oak_planks",
-    "minecraft:cobblestone_stairs",
-    "minecraft:cobbled_deepslate_stairs",
-    "minecraft:torch",
-    "minecraft:iron_axe",
+    "minecraft:enchanting_table",
+    "twilightforest:wood/twilight_oak_planks",
+    "minecraft:copper_ingot",
+    "minecraft:oak_trapdoor",
+    "minecraft:cobblestone_slab",
     "quark:building/crafting/chests/oak_chest",
-    "minecraft:iron_pickaxe",
+    "quark:building/crafting/oak_ladder",
+    "minecraft:oak_door",
+    "minecraft:crafting_table",
+    "tacz:gold_ammo_box",
+    "minecraft:torch",
+    "tacz:gunpowder",
+    "quark:building/crafting/compressed/charcoal_block_uncompress",
+    "createtaczauto:large_gunpowder_pile_recipe",
+    "quark:building/crafting/compressed/gunpowder_sack",
+    "minecraft:sugar_from_sugar_cane",
+    "quark:building/crafting/chests/chest_revert",
+    "minecraft:oak_boat",
+    "minecraft:iron_helmet",
+    "minecraft:iron_leggings",
+    "minecraft:iron_boots",
+    "minecraft:iron_bars",
+    "minecraft:iron_chestplate",
+    "create:crafting/materials/electron_tube",
+    "create:crafting/kinetics/depot",
+    "create:crafting/materials/sand_paper",
+    "minecraft:smithing_table",
+    "l2backpack:ender_pocket",
+    "minecraft:gold_nugget",
+    "minecraft:lever",
+    "simpleplanes:propeller",
+    "cyclic:shears_flint",
+    "minecraft:cobblestone_stairs",
+    "quark:tweaks/crafting/clear_glass",
+    "create:crafting/kinetics/gearshift",
+    "minecraft:redstone",
+    "create:crafting/kinetics/shaft",
+    "create:crafting/kinetics/water_wheel",
+    "create:crafting/kinetics/belt_connector",
+    "create:crafting/kinetics/large_water_wheel",
+    "minecraft:bucket",
+    "create:crafting/kinetics/millstone",
+    "create:crafting/kinetics/chute",
+    "create:crafting/logistics/andesite_funnel",
+    "create:crafting/kinetics/encased_fan",
+    "create:crafting/kinetics/propeller",
+    "create:crafting/kinetics/large_cogwheel",
+    "create:crafting/kinetics/cogwheel",
+    "create:crafting/kinetics/mechanical_drill",
+    "minecraft:copper_block",
+    "quark:building/crafting/compressed/sugar_cane_block",
+    "irons_rpg_tweaks:identification_scroll",
+    "minecraft:paper",
+    "cyclic:crafting/amethyst",
+    "l2backpack:shaped/craft_backpack_white",
+    "minecraft:white_wool_from_string",
+    "minecraft:shears",
+    "minecraft:hopper",
+    "quark:building/crafting/compressed/charcoal_block",
+    "supplementaries:flint_block",
+    "twilightforest:magic_map",
+    "twilightforest:magic_map_focus",
+    "divinerpg:shaped/terran_stone",
+    "divinerpg:shaped/ice_stone",
+    "minecraft:flint_and_steel",
+    "minecraft:iron_nugget",
     "minecraft:stick",
+    "create:crafting/kinetics/basin",
+    "create:crafting/kinetics/mechanical_press",
+    "minecraft:iron_block",
+    "minecraft:coal",
+    "create:crafting/materials/andesite_alloy",
+    "minecraft:shield",
+    "minecraft:cobbled_deepslate_stairs",
+    "minecraft:iron_axe",
+    "minecraft:iron_pickaxe",
     "tacz:ammo_workbench"
   ],
   "recipe_defaults": {
-    "added": [],
+    "added": [
+      "supplementaries:flint_block",
+      "minecraft:copper_block"
+    ],
     "tags": {},
     "resolutions": {},
-    "disabled": []
+    "disabled": [
+      "minecraft:fletching_table"
+    ]
   },
   "hidden_stacks": []
 }
